@@ -2,6 +2,8 @@
 
 ![Metrics](https://github.com/SimonP35/SimonP35/blob/main/github-metrics.svg)
 
+<img src="https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg" alt="Metrics" width="100%">
+
 <p>&nbsp;</p>  
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Simon PEJAC !
