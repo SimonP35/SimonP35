@@ -1,5 +1,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/simon-pejac-04305645/) ![Twitter Follow](https://img.shields.io/twitter/follow/Simon_P35?color=orange&label=Follow%20Me%20on%20Twitter%20%21&style=for-the-badge) ![GitHub followers](https://img.shields.io/github/followers/SimonP35?style=for-the-badge)
 
+![Metrics](https://github.com/SimonP35/SimonP35/blob/main/github-metrics.svg)
+
 <p>&nbsp;</p>  
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Simon PEJAC !
