@@ -10,8 +10,8 @@ If you want to know few things about me :
 
 - ❤ I love working with PHP and Symfony 5.3 !
 - 💻 I’m currently learning Vue.js 3 😍
-- My Twitter account -> [![Twitter][1.2]][1]
-- My LinkedIn account -> [![LinkedIn][3.2]][3]
+- My Twitter account => [![Twitter][1.2]][1]
+- My LinkedIn account => [![LinkedIn][3.2]][3]
 
 Feel free to contact me 😉 !
 
@@ -43,8 +43,8 @@ Feel free to contact me 😉 !
 
 <!-- icons without padding -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: https://i.imgur.com/FjYA9jt.png
+[3.2]: https://i.imgur.com/2KrxgVS.png
 
 
 <!-- links to your social media accounts -->
