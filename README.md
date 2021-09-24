@@ -4,16 +4,16 @@
 
 <p>&nbsp;</p> 
 
-    I'm a Junior Web Developer from France 🙂
-     
-    If you want to know few things about me : 
+I'm a Junior Web Developer from France 🙂
 
-    - ❤ I love working with PHP and Symfony 5.3 !
-    - 💻 I’m currently learning Vue.js 3 😍
-    - My Twitter account => [![Twitter][1.2]][1]
-    - My LinkedIn account => [![LinkedIn][3.2]][3]
-       
-    Feel free to contact me 😉 !
+If you want to know few things about me : 
+
+- ❤ I love working with PHP and Symfony 5.3 !
+- 💻 I’m currently learning Vue.js 3 😍
+- My Twitter account => [![Twitter][1.2]][1]
+- My LinkedIn account => [![LinkedIn][3.2]][3]
+
+Feel free to contact me 😉 !
 
 <p>&nbsp;</p>    
 <p>&nbsp;</p>  
