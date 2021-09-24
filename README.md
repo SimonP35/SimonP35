@@ -20,10 +20,9 @@ Feel free to contact me 😉 !
 
 # <p align=center>&#x1f4c8; My GitHub Stats</p>
 <div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonP35&hide=java,html&theme=cobalt&bg_color=202020&title_color=FF5C8A)](https://github.com/SimonP35/github-readme-stats)  &nbsp;  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimonP35&theme=cobalt&bg_color=202020&text_color=00E0E0&title_color=FF5C8A)](https://github.com/anuraghazra/github-readme-stats)
-
-<p>&nbsp;</p>  
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonP35&show_icons=true&theme=highcontrast))](https://github.com/anuraghazra/github-readme-stats)
+ &nbsp; [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimonP35&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) 
 
 </div>
 
