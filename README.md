@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="280" />
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/simon-pejac-04305645/) ![Twitter Follow](https://img.shields.io/twitter/follow/YoH_DevBack?color=orange&label=Follow%20Me%20on%20Twitter%20%21&style=for-the-badge) ![GitHub followers](https://img.shields.io/github/followers/YohannHommet?style=for-the-badge)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/simon-pejac/) ![Twitter Follow](https://img.shields.io/twitter/follow/YoH_DevBack?color=orange&label=Follow%20Me%20on%20Twitter%20%21&style=for-the-badge) ![GitHub followers](https://img.shields.io/github/followers/YohannHommet?style=for-the-badge)
  
 <p>&nbsp;</p>  
 
