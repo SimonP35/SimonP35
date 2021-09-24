@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="280" />
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/simon-pejac/) ![Twitter Follow](https://img.shields.io/twitter/follow/YoH_DevBack?color=orange&label=Follow%20Me%20on%20Twitter%20%21&style=for-the-badge) ![GitHub followers](https://img.shields.io/github/followers/YohannHommet?style=for-the-badge)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/simon-pejac-04305645/) ![Twitter Follow](https://img.shields.io/twitter/follow/Simon_P35?color=orange&label=Follow%20Me%20on%20Twitter%20%21&style=for-the-badge) ![GitHub followers](https://img.shields.io/github/followers/SimonP35?style=for-the-badge)
  
 <p>&nbsp;</p>  
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Yohann Hommet !
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Simon PEJAC !
 
-- ❤ I love working with Symfony
-- 💻 I’m currently learning Angular and Typescript 😱 !
+- ❤ I love working with Symfony 5.3 !
+- 💻 I’m currently learning Vue.js 3 and i love it 😍
 
 <p>&nbsp;</p>  
 <p>&nbsp;</p>  
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
  
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YohannHommet&hide=java,html&theme=cobalt&bg_color=202020&title_color=FF5C8A)](https://github.com/anuraghazra/github-readme-stats)  &nbsp;  [![Yohann's GitHub stats](https://github-readme-stats.vercel.app/api?username=YohannHommet&theme=cobalt&bg_color=202020&text_color=00E0E0&title_color=FF5C8A)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonP35&hide=java,html&theme=cobalt&bg_color=202020&title_color=FF5C8A)](https://github.com/anuraghazra/github-readme-stats)  &nbsp;  [![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimonP35&theme=cobalt&bg_color=202020&text_color=00E0E0&title_color=FF5C8A)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>&nbsp;</p>  
 
