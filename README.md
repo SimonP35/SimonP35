@@ -1,7 +1,8 @@
 # Hello ! I'm Simon PEJAC <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<img align="right" alt="Metrics" src="https://github.com/SimonP35/SimonP35/blob/main/github-metrics.svg" width="48%" height="auto" />
+<img align="right" alt="Metrics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonP35&count_private=true&show_icons=true&theme=highcontrast" width="40%" height="auto" />
 
+<p>&nbsp;</p> 
 <p>&nbsp;</p> 
 
 I'm a Junior Web Developer from France 🙂
@@ -14,20 +15,18 @@ If you want to know few things about me :
 - My LinkedIn account => [![LinkedIn][3.2]][3]
 
 Feel free to contact me 😉 !
-
+ 
 <p>&nbsp;</p>    
 <p>&nbsp;</p>  
 
 # <p align=center>&#x1f4c8; My GitHub Stats</p>
 <div align="center">
+
+  
+<img align="center" alt="Metrics" src="https://github.com/SimonP35/SimonP35/blob/main/github-metrics.svg" width="80%" height="auto" />
   
 <p>&nbsp;</p>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonP35&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
- &nbsp; [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimonP35&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) 
-
-</div>
-
+ 
 --------
 
 <p align="center">
