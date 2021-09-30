@@ -1,29 +1,18 @@
 # Hello ! I'm Simon PEJAC <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<img align="right" alt="Metrics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonP35&count_private=true&show_icons=true&theme=highcontrast" width="40%" height="auto" />
-
-<p>&nbsp;</p> 
-<p>&nbsp;</p> 
-
-I'm a Junior Web Developer from France 🙂
-
-If you want to know few things about me : 
+I'm a Junior Web Developer from France and to introduce myself i would say that... 
 
 - ❤ I love working with PHP and Symfony 5.3 !
 - 💻 I’m currently learning Vue.js 3 😍
-- My Twitter account => [![Twitter][1.2]][1]
-- My LinkedIn account => [![LinkedIn][3.2]][3]
 
-Feel free to contact me 😉 !
- 
-<p>&nbsp;</p>    
-<p>&nbsp;</p>  
+If you want to know more things about me you can find my Twitter account here => [![Twitter][1.2]][1] and my LinkedIn account here => [![LinkedIn][3.2]][3] 
+
+<p>Feel free to contact me 😉 !</p>
 
 # <p align=center>&#x1f4c8; My GitHub Stats</p>
-<div align="center">
 
-  
-<img align="center" alt="Metrics" src="https://github.com/SimonP35/SimonP35/blob/main/github-metrics.svg" width="80%" height="auto" />
+<img align="right" alt="Metrics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonP35&count_private=true&show_icons=true&theme=highcontrast" width="45%" height="auto" />
+<img alt="Metrics" src="https://github.com/SimonP35/SimonP35/blob/main/github-metrics.svg" width="auto" height="auto" />
   
 <p>&nbsp;</p>
  
