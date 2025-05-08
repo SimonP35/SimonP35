@@ -23,15 +23,6 @@ If you want to know more things about me you can find my LinkedIn account here =
 <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" alt="Symfony Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vuejs Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="Javascript Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3 Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="Npm Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" alt="Composer Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="Webpack Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" alt="Apache Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="VSCode Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux Logo" width="50" height="50"/>
 
 ---------
-
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-
-<!-- icons without padding -->
-
 [1.2]: https://i.imgur.com/FjYA9jt.png
 [3.2]: https://i.imgur.com/2KrxgVS.png
 
