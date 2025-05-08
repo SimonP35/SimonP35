@@ -1,6 +1,6 @@
 # Hello ! I'm Simon PEJAC <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a Web Developer and project manager from France and to introduce myself i would say that... 
+I'm a Web Developer and to introduce myself i would say that... 
 
 - ❤ I love working with PHP and Drupal 8/9/10 !
 - 💻 I'm really interested in DevOps 😍
