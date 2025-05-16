@@ -13,6 +13,7 @@ Feel free to contact me to discuss projects or simply chat about web development
 ## 📫 Contact Me
 
 [![LinkedIn: Simon Pejac](https://img.shields.io/badge/-SimonPejac-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/simon-pejac-04305645/)](https://www.linkedin.com/in/simon-pejac-04305645/)
+[![GitHub SimonP35](https://img.shields.io/github/followers/SimonP35?label=follow&style=social)](https://github.com/SimonP35)
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=777BB4)
@@ -37,7 +38,6 @@ Feel free to contact me to discuss projects or simply chat about web development
 ## 📊 GitHub Stats
 
 [![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimonP35&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonP35&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub SimonP35](https://img.shields.io/github/followers/SimonP35?label=follow&style=social)](https://github.com/SimonP35)
 
 [1.2]: https://i.imgur.com/FjYA9jt.png
 [3.2]: https://i.imgur.com/2KrxgVS.png
