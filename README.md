@@ -8,7 +8,7 @@ I'm a Web Developer passionate about modern technologies and development best pr
 - 💻 I'm really passionate about DevOps 😍
 - 🌱 Constantly learning to become a better developer...
 
-Feel free to contact me to discuss projects or simply chat about web development and DevOps! 😉
+Feel free to contact me to discuss projects or simply chat about web development and DevOps ! 😉
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=777BB4)
