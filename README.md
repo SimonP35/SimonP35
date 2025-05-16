@@ -32,9 +32,7 @@ Feel free to contact me to discuss projects or simply chat about web development
 
 ## 📊 GitHub Stats
 
-[![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimonP35&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonP35&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimonP35&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonP35&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Contact Me
 
