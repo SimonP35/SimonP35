@@ -4,11 +4,9 @@
 
 I'm a Web Developer passionate about modern technologies and development best practices.
 
-- ❤️ I love working with PHP and Drupal 8/9/10!
+- ❤️ I love working with PHP and Drupal 8/9/10 !
 - 💻 I'm really passionate about DevOps 😍
-- 🌱 Constantly learning to become a better developer
-- 🧪 Interested in unit testing for Drupal
-- 🏆 Goal: Obtain multiple Drupal certifications
+- 🌱 Constantly learning to become a better developer...
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=777BB4)
@@ -39,7 +37,6 @@ I'm a Web Developer passionate about modern technologies and development best pr
 
 ## 📫 Contact Me
 
-[![Twitter: Simon_P35](https://img.shields.io/twitter/follow/Simon_P35?style=social)](https://twitter.com/Simon_P35)
 [![LinkedIn: Simon Pejac](https://img.shields.io/badge/-SimonPejac-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/simon-pejac-04305645/)](https://www.linkedin.com/in/simon-pejac-04305645/)
 [![GitHub SimonP35](https://img.shields.io/github/followers/SimonP35?label=follow&style=social)](https://github.com/SimonP35)
 
