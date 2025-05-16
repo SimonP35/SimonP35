@@ -11,7 +11,6 @@ I'm a Web Developer passionate about modern technologies and development best pr
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=777BB4)
 ![](https://img.shields.io/badge/CMS-Drupal-informational?style=flat&logo=drupal&logoColor=white&color=0678BE)
-![](https://img.shields.io/badge/Framework-Symfony-informational?style=flat&logo=symfony&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/JS-jQuery-informational?style=flat&logo=jquery&logoColor=white&color=0769AD)
 ![](https://img.shields.io/badge/Template-Twig-informational?style=flat&logo=twig&logoColor=white&color=green)
 
