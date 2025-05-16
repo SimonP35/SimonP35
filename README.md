@@ -1,4 +1,4 @@
-# Hello! I'm Simon <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello ! I'm Simon <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## 👨‍💻 About Me
 
